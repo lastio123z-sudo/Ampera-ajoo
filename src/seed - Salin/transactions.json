@@ -1,0 +1,94 @@
+[
+  {
+    "id": "t1",
+    "nomorNota": "AA-20241101-001",
+    "kasir": { "id": "u2", "nama": "Siti Kasir Pertama" },
+    "items": [
+      { "produkId": "p10", "nama": "Nasi Putih", "harga": 4000, "jumlah": 2, "subtotal": 8000 },
+      { "produkId": "p1", "nama": "Rendang Sapi", "harga": 25000, "jumlah": 1, "subtotal": 25000 },
+      { "produkId": "p4", "nama": "Sayur Nangka", "harga": 8000, "jumlah": 1, "subtotal": 8000 }
+    ],
+    "total": 41000,
+    "bayar": 50000,
+    "kembalian": 9000,
+    "status": "selesai",
+    "tanggal": "2024-11-01T08:30:00.000Z"
+  },
+  {
+    "id": "t2",
+    "nomorNota": "AA-20241101-002",
+    "kasir": { "id": "u2", "nama": "Siti Kasir Pertama" },
+    "items": [
+      { "produkId": "p10", "nama": "Nasi Putih", "harga": 4000, "jumlah": 3, "subtotal": 12000 },
+      { "produkId": "p2", "nama": "Ayam Pop", "harga": 18000, "jumlah": 2, "subtotal": 36000 },
+      { "produkId": "p11", "nama": "Sambal Hijau", "harga": 5000, "jumlah": 1, "subtotal": 5000 }
+    ],
+    "total": 53000,
+    "bayar": 60000,
+    "kembalian": 7000,
+    "status": "selesai",
+    "tanggal": "2024-11-01T09:15:00.000Z"
+  },
+  {
+    "id": "t3",
+    "nomorNota": "AA-20241102-001",
+    "kasir": { "id": "u3", "nama": "Rudi Kasir Kedua" },
+    "items": [
+      { "produkId": "p10", "nama": "Nasi Putih", "harga": 4000, "jumlah": 4, "subtotal": 16000 },
+      { "produkId": "p5", "nama": "Dendeng Balado", "harga": 22000, "jumlah": 2, "subtotal": 44000 },
+      { "produkId": "p3", "nama": "Gulai Ikan", "harga": 20000, "jumlah": 1, "subtotal": 20000 },
+      { "produkId": "p6", "nama": "Telur Dadar", "harga": 7000, "jumlah": 2, "subtotal": 14000 }
+    ],
+    "total": 94000,
+    "bayar": 100000,
+    "kembalian": 6000,
+    "status": "selesai",
+    "tanggal": "2024-11-02T11:00:00.000Z"
+  },
+  {
+    "id": "t4",
+    "nomorNota": "AA-20241103-001",
+    "kasir": { "id": "u2", "nama": "Siti Kasir Pertama" },
+    "items": [
+      { "produkId": "p10", "nama": "Nasi Putih", "harga": 4000, "jumlah": 2, "subtotal": 8000 },
+      { "produkId": "p9", "nama": "Ayam Goreng", "harga": 15000, "jumlah": 2, "subtotal": 30000 },
+      { "produkId": "p7", "nama": "Perkedel Kentang", "harga": 5000, "jumlah": 4, "subtotal": 20000 }
+    ],
+    "total": 58000,
+    "bayar": 60000,
+    "kembalian": 2000,
+    "status": "selesai",
+    "tanggal": "2024-11-03T12:30:00.000Z"
+  },
+  {
+    "id": "t5",
+    "nomorNota": "AA-20241104-001",
+    "kasir": { "id": "u3", "nama": "Rudi Kasir Kedua" },
+    "items": [
+      { "produkId": "p10", "nama": "Nasi Putih", "harga": 4000, "jumlah": 5, "subtotal": 20000 },
+      { "produkId": "p1", "nama": "Rendang Sapi", "harga": 25000, "jumlah": 3, "subtotal": 75000 },
+      { "produkId": "p8", "nama": "Gulai Cubadak", "harga": 8000, "jumlah": 2, "subtotal": 16000 },
+      { "produkId": "p12", "nama": "Gulai Otak", "harga": 20000, "jumlah": 1, "subtotal": 20000 }
+    ],
+    "total": 131000,
+    "bayar": 150000,
+    "kembalian": 19000,
+    "status": "selesai",
+    "tanggal": "2024-11-04T13:00:00.000Z"
+  },
+  {
+    "id": "t6",
+    "nomorNota": "AA-20241105-001",
+    "kasir": { "id": "u2", "nama": "Siti Kasir Pertama" },
+    "items": [
+      { "produkId": "p10", "nama": "Nasi Putih", "harga": 4000, "jumlah": 3, "subtotal": 12000 },
+      { "produkId": "p2", "nama": "Ayam Pop", "harga": 18000, "jumlah": 1, "subtotal": 18000 },
+      { "produkId": "p5", "nama": "Dendeng Balado", "harga": 22000, "jumlah": 1, "subtotal": 22000 }
+    ],
+    "total": 52000,
+    "bayar": 55000,
+    "kembalian": 3000,
+    "status": "selesai",
+    "tanggal": "2024-11-05T10:00:00.000Z"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p1",
+    "nama": "Rendang Sapi",
+    "kategori": "Lauk",
+    "harga": 25000,
+    "stok": 50,
+    "deskripsi": "Rendang sapi empuk dengan bumbu rempah khas Minang",
+    "gambar": "/menu/rendang-sapi.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p2",
+    "nama": "Ayam Pop",
+    "kategori": "Lauk",
+    "harga": 18000,
+    "stok": 40,
+    "deskripsi": "Ayam goreng khas Padang tanpa bumbu, lembut dan gurih",
+    "gambar": "/menu/ayam-pop.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p3",
+    "nama": "Gulai Ikan",
+    "kategori": "Lauk",
+    "harga": 20000,
+    "stok": 35,
+    "deskripsi": "Gulai ikan segar dengan kuah santan kuning kaya rempah",
+    "gambar": "/menu/gulai-ikan.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p4",
+    "nama": "Sayur Nangka",
+    "kategori": "Sayur",
+    "harga": 8000,
+    "stok": 60,
+    "deskripsi": "Gulai sayur nangka muda yang dimasak dengan santan",
+    "gambar": "/menu/sayur-nangka.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p5",
+    "nama": "Dendeng Balado",
+    "kategori": "Lauk",
+    "harga": 22000,
+    "stok": 30,
+    "deskripsi": "Daging sapi tipis digoreng kering dengan sambal balado pedas",
+    "gambar": "/menu/dendeng-balado.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p6",
+    "nama": "Telur Dadar",
+    "kategori": "Lauk",
+    "harga": 7000,
+    "stok": 80,
+    "deskripsi": "Telur dadar gurih dengan bumbu bawang dan cabai",
+    "gambar": "/menu/telur-dadar.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p7",
+    "nama": "Perkedel Kentang",
+    "kategori": "Lauk",
+    "harga": 5000,
+    "stok": 100,
+    "deskripsi": "Perkedel kentang goreng dengan isian daging cincang",
+    "gambar": "/menu/perkedel-kentang.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p8",
+    "nama": "Gulai Cubadak",
+    "kategori": "Sayur",
+    "harga": 8000,
+    "stok": 45,
+    "deskripsi": "Gulai nangka muda khas Minangkabau yang gurih dan lezat",
+    "gambar": "/menu/gulai-cubadak.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p9",
+    "nama": "Ayam Goreng",
+    "kategori": "Lauk",
+    "harga": 15000,
+    "stok": 50,
+    "deskripsi": "Ayam goreng bumbu kuning renyah dan lezat",
+    "gambar": "/menu/ayam-goreng.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p10",
+    "nama": "Nasi Putih",
+    "kategori": "Nasi",
+    "harga": 4000,
+    "stok": 200,
+    "deskripsi": "Nasi putih pulen hasil masakan terbaik",
+    "gambar": "/menu/nasi-putih.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p11",
+    "nama": "Sambal Hijau",
+    "kategori": "Sambal",
+    "harga": 5000,
+    "stok": 70,
+    "deskripsi": "Sambal hijau segar khas Padang dengan cita rasa pedas",
+    "gambar": "/menu/sambal-hijau.svg",
+    "tersedia": true
+  },
+  {
+    "id": "p12",
+    "nama": "Gulai Otak",
+    "kategori": "Lauk",
+    "harga": 20000,
+    "stok": 25,
+    "deskripsi": "Gulai otak sapi yang lembut dengan kuah santan kental",
+    "gambar": "/menu/gulai-otak.svg",
+    "tersedia": true
+  }
+]
